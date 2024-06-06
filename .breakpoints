@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "src/shemmey/bin/windows/BuildWindow.java": [
+      {
+        "id": "110a8236-66a7-46fc-8b78-9058898d2315",
+        "line": 287,
+        "version": 14809,
+        "index": 11086
+      }
+    ],
+    "src/shemmey/bin/windows/ShemmeyFrame.java": [
+      {
+        "id": "4d5518d8-e81e-4608-b09b-0a3970c7bb68",
+        "line": 20,
+        "version": 2727,
+        "index": 499
+      }
+    ]
+  }
 }
