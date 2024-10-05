@@ -1,9 +1,3 @@
-/*
-    Name: Ron Shemmer, Landon Zheng, Aakrist Godar
-    Period: 4th
-    Date turned in: 05/13/2024
-*/
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
